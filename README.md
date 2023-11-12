@@ -1,0 +1,1 @@
+Algoritmo desenvolvido afim de fazer parte do Processo seletivo Retta TI.
